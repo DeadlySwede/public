@@ -1,4 +1,4 @@
 public
 ======
 
-Public GitHub Repository
+Public Repository
